@@ -53,3 +53,6 @@ If you want to compare results with BCQ, run as follows:
 ```
 python run_bcq.py --env_name HalfCheetah-v1 --buffer_type medio --seed 1 --genbuffer_algo SAC
 ```
+
+![image](https://github.com/Yuibooo/BEAR/tree/master/results/HalfCheetah-v1.png)
+
